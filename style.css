@@ -7,6 +7,8 @@ img {
 #head-pic {
     width: 20em;
     height: 15em;
+    padding: 20px;
+    border-radius: 50px;
 }
 
 header {
@@ -88,6 +90,7 @@ button {
     flex-direction: column;
     align-items: center;
     flex-grow: 1;
+    padding: 20px;
 }
 
 .second-head {
